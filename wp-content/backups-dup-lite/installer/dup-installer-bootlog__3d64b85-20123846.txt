@@ -1,0 +1,40 @@
+[Jun 20 12:57:40] 
+[Jun 20 12:57:40] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:/home2/agrado07/institucional.agradoplanejados.com.br/installer.php|LINE:99]
+[Jun 20 12:57:40] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.4==
+[Jun 20 12:57:40] ----------------------------------------------------
+[Jun 20 12:57:40] Installer bootstrap start
+[Jun 20 12:57:40] Ready to extract the installer
+[Jun 20 12:57:40] Checking permission of destination folder
+[Jun 20 12:57:40] Expand directory from offset 24227535
+[Jun 20 12:57:40] SAPI: litespeed
+[Jun 20 12:57:40] creating /home2/agrado07/institucional.agradoplanejados.com.br/dup-installer/.user.ini with the content:
+[Jun 20 12:57:40] max_execution_time = 3600
+max_input_time = -1
+ignore_user_abort = On
+post_max_size = 4096M
+upload_max_filesize = 4096M
+memory_limit = 4294967296
+default_socket_timeout = 3600
+pcre.backtrack_limit = 99999999999
+[Jun 20 12:57:40] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$archive is deprecated [CODE:8192|FILE:/home2/agrado07/institucional.agradoplanejados.com.br/installer.php|LINE:529]
+[Jun 20 12:57:40] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$bootloader is deprecated [CODE:8192|FILE:/home2/agrado07/institucional.agradoplanejados.com.br/installer.php|LINE:530]
+[Jun 20 12:57:40] Set permissions of dup-installer<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/addons<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/assets<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/classes<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/ctrls<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/favicon<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/libs<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/original_files_[HASH]<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/src<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/templates<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/vendor<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/.user.ini<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/index.php<br/>
+[Jun 20 12:57:40] Set permissions of dup-installer/main.installer.php<br/>
+[Jun 20 12:57:40] DONE: No detected errors so redirecting to the main installer. Main Installer URI = https://institucional.agradoplanejados.com.br/dup-installer/main.installer.php
+[Jun 20 12:57:40] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:/home2/agrado07/institucional.agradoplanejados.com.br/installer.php|LINE:99]
