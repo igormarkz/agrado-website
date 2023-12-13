@@ -1,6 +1,6 @@
 # Agrado Móveis Planejados
 
-Bem-vindo ao repositório do Agrado Móveis Planejados, o site institucional de uma marcenaria desenvolvido com WordPress.
+Bem-vindo ao repositório do projeto da Agrado Móveis Planejados, o site institucional de uma marcenaria desenvolvido com WordPress.
 
 ## Descrição
 
